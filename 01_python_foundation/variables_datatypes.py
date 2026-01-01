@@ -1,0 +1,9 @@
+num = 5  # int
+name = "Febin"  # string
+dec = 5.2  # float
+flag = True  # bool
+list1 = [1, "Febin", 2]  # list
+tuple1 = (1, "Febin", 2)  # tuple
+set1 = {1, 2, 3, 2}  # set
+dict1 = {1: "Febin", "Number": 7}  # dictionary
+val = None
