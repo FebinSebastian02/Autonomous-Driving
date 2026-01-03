@@ -1,0 +1,5 @@
+ERROR:root:Failed to calculate time
+Traceback (most recent call last):
+  File "C:\Febin\Upskilling\Python\Autonomous Driving\01_python_foundation\review.py", line 9, in calc_time
+    raise ValueError("Speed must be greater than zero")
+ValueError: Speed must be greater than zero
